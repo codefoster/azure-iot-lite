@@ -1,0 +1,5 @@
+[C](http://github.com/codefoster/hubclient-c)
+[.NET](http://github.com/codefoster/hubclient-dotnet)
+[Node.js](http://github.com/codefoster/hubclient-js)
+[Java](http://github.com/codefoster/hubclient-java)
+[Python](http://github.com/codefoster/hubclient-python)
